@@ -2,11 +2,11 @@
 ![](https://github.com/lguilhermee/Discord-Overlay-Hook/blob/master/Images/logo.png)
 
 ### Features
-- Ready to Inject
-- Pattern Scan
-- Get Keys Input
-- Discord Overlay PresentScene Hook (You can draw on top of games)
-- Imgui Ready
+- Chat interface for asking questions with AI-powered automatic responses
+- Answer retrieval from the center's knowledge base
+- Admin panel for managing Q&A data
+- Conversation history logging
+- Accessible via web browser
 
 ### DEMO
 - ![](https://github.com/lguilhermee/Discord-Overlay-Hook/raw/master/Images/demo.png)
