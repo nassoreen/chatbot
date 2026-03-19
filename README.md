@@ -1,6 +1,4 @@
 
-![](https://github.com/lguilhermee/Discord-Overlay-Hook/blob/master/Images/logo.png)
-
 <h1 align="center">CMSA Chatbot</h1>
 CMSA Chatbot
 
@@ -16,7 +14,7 @@ A web-based chatbot application for CMSA Center that automatically answers quest
 - Accessible via web browser
 
 ### DEMO
-- ![](https://github.com/lguilhermee/Discord-Overlay-Hook/raw/master/Images/demo.png)
+- ![]([https://github.com/lguilhermee/Discord-Overlay-Hook/raw/master/Images/demo.png](https://github.com/nassoreen/chatbot/blob/main/images/demo.png))
 
 ### HOW TO USE
 1. Compile project with Visual Studio
