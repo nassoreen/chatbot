@@ -1,7 +1,7 @@
 
 ![](https://github.com/lguilhermee/Discord-Overlay-Hook/blob/master/Images/logo.png)
 
-
+<h1 align="center">CMSA Chatbot</h1>
 CMSA Chatbot
 
 A web-based chatbot application for CMSA Center that automatically answers questions using AI and searches for answers from the center's knowledge base
