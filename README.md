@@ -1,6 +1,9 @@
 
 <h1 align="center">AI Chatbot with RAG (Django + Ollama)</h1>
 
+### DEMO
+ ![](https://github.com/nassoreen/chatbot/blob/main/images/demo.png)
+ 
 An AI-powered chatbot system using Retrieval-Augmented Generation (RAG) to provide accurate answers based on an organization’s knowledge base. This approach improves reliability and reduces hallucinations from AI models.
 
 
@@ -25,14 +28,46 @@ An AI-powered chatbot system using Retrieval-Augmented Generation (RAG) to provi
 ![](https://github.com/nassoreen/chatbot/blob/main/images/RAG.png)
 
 
-### DEMO
- ![](https://github.com/nassoreen/chatbot/blob/main/images/demo.png)
+## Installation
 
-### HOW TO USE
-1. Compile project with Visual Studio
-2. Use a DLL injector. (ProcessHacker for example)
-3. Choose a Target and Inject. 
+1. Clone Repository
 
-### Libraries
-- https://github.com/ocornut/imgui
-- Discord
+```sh
+git clone https://github.com/your-username/your-repo.git
+```
+```sh
+cd your-repo
+```
+
+2. Create Virtual Environment
+
+```sh
+python -m venv venv
+```
+```sh
+source venv/bin/activate   # Windows: venv\Scripts\activate
+```
+
+3. Install Dependencies
+
+```sh
+pip install -r requirements.txt
+```
+
+4. Setup Database
+
+```sh
+python manage.py migrate
+```
+
+5. Run Ollama (LLM)
+
+```sh
+ollama run llama3
+```
+
+6. Run Server
+   
+```sh
+python manage.py runserver
+```
